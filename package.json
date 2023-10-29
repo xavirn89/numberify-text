@@ -1,0 +1,25 @@
+{
+  "name": "numberify-text",
+  "version": "1.0.0",
+  "description": "A library to convert text numbers to their numeric equivalents.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xavirn89/numberify-text.git"
+  },
+  "keywords": [
+    "text",
+    "numbers",
+    "conversion"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
