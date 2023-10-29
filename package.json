@@ -4,6 +4,9 @@
   "description": "A library to convert text numbers to their numeric equivalents.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
