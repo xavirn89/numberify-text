@@ -3,11 +3,12 @@
 Numberify Text is a JavaScript library that converts numbers written in text form to their numeric equivalents in various languages.
 
 ## Installation
+
 ```
 npm install numberify-text
 ```
-## Usage
 
+## Usage
 
 ```
 import { numberifyText } from 'numberify-text';
@@ -31,7 +32,7 @@ const result = numberifyText(sentence, 'en');
 console.log(result); // Output: "there are 3 cats in 2750032 houses"
 ```
 
-### Supported Languages
+## Supported Languages
 
 - English (`en`)
 - Spanish (`es`)

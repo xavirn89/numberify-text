@@ -1,6 +1,6 @@
 {
   "name": "numberify-text",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library to convert text numbers to their numeric equivalents.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -16,6 +16,7 @@
     "url": "https://github.com/xavirn89/numberify-text.git"
   },
   "keywords": [
+    "text-to-number",
     "text",
     "numbers",
     "conversion"
